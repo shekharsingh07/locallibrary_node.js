@@ -16,7 +16,8 @@
 ```
 npm install
 SET DEBUG=locallibrary_node.js:* npm run start   #For Windows
-    
+```
+```
 npm install
 DEBUG=locallibrary_node.js:* npm run devstart   #For Linux
 ```
