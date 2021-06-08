@@ -12,15 +12,14 @@
 **Installation & Usage:**<Enter>The project can be cloned or donwloaded and set up to run locally on your computer. This can be done by:
 <ol>
   <li> Set up a [Nodejs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment) development environment.</li>
-  <li>Once node is setup, the following commands can be entered in the root of your clone of this repo:
-    ```
-    npm install
-    SET DEBUG=locallibrary_node.js:* npm run start   #For Windows
+  <li>Once node is setup, the following commands can be entered in the root of your clone of this repo:</li>
+```
+npm install
+SET DEBUG=locallibrary_node.js:* npm run start   #For Windows
     
-    npm install
-    DEBUG=locallibrary_node.js:* npm run devstart   #For Linux
-    ```
-  </li>
+npm install
+DEBUG=locallibrary_node.js:* npm run devstart   #For Linux
+```
   <li>Open a browser to http://localhost:3000/ to open the library site.</li>
 </ol>  
 
