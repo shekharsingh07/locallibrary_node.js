@@ -1,6 +1,6 @@
 ## **Project Name:** Node.js - Local Library Tutorial
 
-**Description:** Express is a popular unopinionated web framework, written in JavaScript and hosted within the Node.js runtime environment. This module explains some of the key benefits of the framework, how to set up your development environment and how to perform common web development and deployment tasks
+**Description:** Express is a popular unopinionated web framework, written in JavaScript and hosted within the Node.js runtime environment. This project follows a tutorial on how to set up a development environment and how to perform common web development and deployment tasks. The completed project is deployed and can be viewed through this [website](https://gentle-retreat-96753.herokuapp.com/catalog).
 
 **Table of Contents:**
 <ol>
